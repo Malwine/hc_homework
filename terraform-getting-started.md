@@ -263,7 +263,7 @@ Destroy complete! Resources: 2 destroyed.
 
 ## Next steps
 
-- Find more guides and information on Terraform on the [Hashicorp learning Platform](https://learn.hashicorp.com/terraform).
+- Find more guides and information on Terraform on the [Hashicorp learning platform](https://learn.hashicorp.com/terraform).
 - Learn how to use [Terraform with AWS](https://learn.hashicorp.com/collections/terraform/aws-get-started)
 - Learn how to use [Terraform with  Azure](https://learn.hashicorp.com/collections/terraform/azure-get-started)
 - Learn how to use [Terraform with  Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started)
