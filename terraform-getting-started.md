@@ -11,7 +11,7 @@ To follow this tutorial you will need:
 
 Visit [Terraform.io](https://www.terraform.io/downloads.html) to install Terraform. Choose the proper package for your platform, machine or environment. Download and unzip the package.
 
-Finally, make sure that the terraform binary is available on your PATH. This process will differ depending on your operating system.
+Finally, make sure that the terraform binary is [available on your PATH](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/azure-get-started). This process will differ depending on your operating system.
 
 ## Build infrastructure
 
