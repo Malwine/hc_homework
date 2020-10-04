@@ -161,7 +161,7 @@ The command will take up to a few minutes to run. Finally, it will display a mes
 
 ## Destroy infrastructure
 
-Finally, you may destroy the infrastructure.
+To destroy the infrastructure use the `destroy` command.
 
 ```shell
 $ terraform destroy
